@@ -1,0 +1,20 @@
+Student feedback system with aggregation analytics
+
+A feedback portal course where:
+    Student can submit rating (1-5) and comments.
+    The system shows aggregated average rating and rating distribution for each course.
+
+Requirements:
+Backend:
+    CRUD for courses
+    API to submit feedback
+    API to return aggregated rating stats(avg, count per rating)
+
+Frontend
+    Course list woth average rating
+    feedback form.
+    Analytics form
+    Analytics page with charts for rating distribution
+
+DB
+    Courses,feedback table with relationships

@@ -2,6 +2,10 @@
 
 A full‑stack web application to collect, analyze, and manage course feedback. Includes a modern, animated React UI and a role‑based admin panel for managing courses and viewing analytics.
 
+
+## 📽️ Demo
+[Watch the Demo Video](https://drive.google.com/file/d/15y7PNhoaefOpxhU9x4fAlAE3mpuxvVXi/view?usp=sharing)
+
 ## Table of Contents
 - [Live Views (Local Dev)](#live-views-local-dev)
 - [Key Features](#key-features)
